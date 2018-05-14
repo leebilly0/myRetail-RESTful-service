@@ -21,3 +21,6 @@ http://localhost:8080/products/ - shows all products<br>
 http://localhost:8080/products/{1} - getsProductByID and gets external API Info, Shows External API ID, Name, Local DB Price<br>
 http://localhost:8080/products{1} - PUT - Updates Price By ID<br>
 http://localhost:8080/about - Author Page<br>
+
+## Screenshots
+![alt text](https://github.com/leebilly0/myRetail-RESTful-service/blob/master/1_Data_in_Mongo_DB_exposed_through_API.png)
