@@ -22,5 +22,8 @@ http://localhost:8080/products/{1} - getsProductByID and gets external API Info,
 http://localhost:8080/products{1} - PUT - Updates Price By ID<br>
 http://localhost:8080/about - Author Page<br>
 
-## Screenshots
-![alt text](https://github.com/leebilly0/myRetail-RESTful-service/blob/master/1_Data_in_Mongo_DB_exposed_through_API.png)
+## Screenshots (Download images to see them more clearly)
+Working MongoDB showing all products when http://localhost:8080/products/ is hit<br>
+![alt text](https://github.com/leebilly0/myRetail-RESTful-service/blob/master/1_Data_in_Mongo_DB_exposed_through_API.png)<br>
+JSON INFO of ID 13860428 
+![alt text](https://raw.githubusercontent.com/leebilly0/myRetail-RESTful-service/master/2_Data_By_ID_13860428.png)
