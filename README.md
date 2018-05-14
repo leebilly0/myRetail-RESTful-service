@@ -1,23 +1,23 @@
 # myRetail-RESTful-service
 
 ## Technologies
-Java JDK 1.8.0
-Spring 2.0.2 Release
-Maven 4.0.0
-MonogoDB 3.6.4
+Java JDK 1.8.0<br>
+Spring 2.0.2 Release<br>
+Maven 4.0.0<br>
+MonogoDB 3.6.4<br>
 
 ## Database
-database=products
-collecitons=products
-mongodb host=localhost
-mongodb port=27017
+database=products<br>
+collecitons=products<br>
+mongodb host=localhost<br>
+mongodb port=27017<br>
 
 ## Local Build
-Built using Eclipse, Run As Spring Boot App
-http://localhost:8080/
+Built using Eclipse, Run As Spring Boot App<br>
+http://localhost:8080/<br>
 
 ## Directory
-http://localhost:8080/products/ - shows all products
-http://localhost:8080/products/{1} - getsProductByID and gets external API Info, Shows External API ID, Name, Local DB Price
-http://localhost:8080/products{1} - PUT - Updates Price By ID
-http://localhost:8080/about - Author Page
+http://localhost:8080/products/ - shows all products<br>
+http://localhost:8080/products/{1} - getsProductByID and gets external API Info, Shows External API ID, Name, Local DB Price<br>
+http://localhost:8080/products{1} - PUT - Updates Price By ID<br>
+http://localhost:8080/about - Author Page<br>
