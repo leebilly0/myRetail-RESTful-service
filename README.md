@@ -1,10 +1,14 @@
 # myRetail-RESTful-service
 
+## Live Server
+http://167.99.11.45:8080/
+
 ## Technologies
 Java JDK 1.8.0<br>
 Spring 2.0.2 Release<br>
 Maven 4.0.0<br>
 MonogoDB 3.6.4<br>
+Tomcat 8.5.3<br>
 
 ## Database
 database=products<br>
