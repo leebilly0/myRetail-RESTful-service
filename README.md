@@ -13,8 +13,10 @@ mongodb host=localhost<br>
 mongodb port=27017<br>
 
 ## Local Build
+Launch Mongodb<br>
 Built using Eclipse, Run As Spring Boot App<br>
-http://localhost:8080/<br>
+http://localhost:8080/ for Application<br>
+http://localhost:27017/ for DB<br>
 
 ## Directory
 http://localhost:8080/products/ - shows all products<br>
